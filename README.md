@@ -1,2 +1,2 @@
 # Cleaning-Web-Scraped-Craigslist-Housing-Rentals-Data
-Code and methodology for cleaning web-scraped craigslist housing rentals data
+Long-term project completed under the mentorship of Abhishek Sharma for Springboard Data Science Career Track
